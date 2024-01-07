@@ -1,2 +1,2 @@
 #  Zain-Ul-Abidin Trust Website
-this a frontend of a website i have created for a trust named ' Zain-ul-Abidin Trust ' located in sahiwal near civil hospital, this website is to share details of trust and get donations for needy prople
+this a frontend of a website i have created for my client a trust named ' Zain-ul-Abidin Trust ' located in sahiwal near civil hospital, this website is to share details of trust and get donations for needy prople
